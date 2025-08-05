@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <ID>101</ID>
+        <Name>Pema Dorji</Name>
+        <Age>20</Age>
+        <Department>Electrical</Department>
+    </Student>
+    <Student>
+        <ID>102</ID>
+        <Name>Sangay Wangchuk</Name>
+        <Age>21</Age>
+        <Department>Information Technology</Department>
+    </Student>
+    <Student>
+        <ID>103</ID>
+        <Name>Kezang Choden</Name>
+        <Age>19</Age>
+        <Department>Electronics</Department>
+    </Student>
+</Students>
