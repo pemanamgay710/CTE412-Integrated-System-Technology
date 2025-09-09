@@ -13,3 +13,6 @@ def read_student(id):
         print("Student not found!")
 
 read_student(2)
+
+# how to validate a json file against a schema
+# schema verification and also for xml
